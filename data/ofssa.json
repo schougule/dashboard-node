@@ -1,0 +1,234 @@
+[
+ {
+   "ORDO": 1,
+   "DESCR": "CS",
+   "FLOW_ID": 11001,
+   "AREA": "PUB_DAT",
+   "DATE": "NA"
+ },
+ {
+   "ORDO": 2,
+   "DESCR": "BDEV",
+   "FLOW_ID": 11005,
+   "AREA": "PUB_DAT",
+   "DATE": "2018-01-20"
+ },
+ {
+   "ORDO": 3,
+   "DESCR": "GL",
+   "FLOW_ID": 11018,
+   "AREA": "PUB_DAT",
+   "DATE": "2018-01-20"
+ },
+ {
+   "ORDO": 4,
+   "DESCR": "GMDB",
+   "FLOW_ID": 11022,
+   "AREA": "PUB_DAT",
+   "DATE": "2018-01-20"
+ },
+ {
+   "ORDO": 5,
+   "DESCR": "GL-CURR",
+   "FLOW_ID": 11022,
+   "AREA": "PUB_DAT",
+   "DATE": "NA"
+ },
+ {
+   "ORDO": 6,
+   "DESCR": "PartyRef",
+   "FLOW_ID": 11003,
+   "AREA": "PUB_DAT",
+   "DATE": "2018-01-20"
+ },
+ {
+   "ORDO": 7,
+   "DESCR": "PAC",
+   "FLOW_ID": 11015,
+   "AREA": "PUB_DAT",
+   "DATE": "2018-01-20"
+ },
+ {
+   "ORDO": 8,
+   "DESCR": "SIL",
+   "FLOW_ID": 11020,
+   "AREA": "PUB_DAT",
+   "DATE": "2018-01-20"
+ },
+ {
+   "ORDO": 9,
+   "DESCR": "KGC",
+   "FLOW_ID": 11026,
+   "AREA": "PUB_DAT",
+   "DATE": "NA"
+ },
+ {
+   "ORDO": 10,
+   "DESCR": "PAN",
+   "FLOW_ID": 11081,
+   "AREA": "PUB_DAT",
+   "DATE": "2018-01-20"
+ },
+ {
+   "ORDO": 11,
+   "DESCR": "HCT",
+   "FLOW_ID": 11094,
+   "AREA": "PUB_DAT",
+   "DATE": "NA"
+ },
+ 
+ {
+   "ORDO": 13,
+   "DESCR": "KLC",
+   "FLOW_ID": 11031,
+   "AREA": "PUB_DAT",
+   "DATE": "2018-01-20"
+ },
+ {
+   "ORDO": 14,
+   "DESCR": "TER",
+   "FLOW_ID": 11035,
+   "AREA": "PUB_DAT",
+   "DATE": "2018-01-20"
+ },
+ {
+   "ORDO": 16,
+   "DESCR": "AVO",
+   "FLOW_ID": 11029,
+   "AREA": "PUB_DAT",
+   "DATE": "2018-01-20"
+ },
+ {
+   "ORDO": 17,
+   "DESCR": "CAL",
+   "FLOW_ID": 11033,
+   "AREA": "PUB_DAT",
+   "DATE": "2018-01-20"
+ },
+ {
+   "ORDO": 18,
+   "DESCR": "KON",
+   "FLOW_ID": 11097,
+   "AREA": "PUB_DAT",
+   "DATE": "NA"
+ },
+ {
+   "ORDO": 19,
+   "DESCR": "AIS",
+   "FLOW_ID": 11079,
+   "AREA": "PUB_DAT",
+   "DATE": "NA"
+ },
+ {
+   "ORDO": 20,
+   "DESCR": "FIL",
+   "FLOW_ID": 11024,
+   "AREA": "PUB_DAT",
+   "DATE": "2018-01-20"
+ },
+ {
+   "ORDO": 21,
+   "DESCR": "PHL_PHC",
+   "FLOW_ID": 11043,
+   "AREA": "PUB_DAT",
+   "DATE": "2018-01-20"
+ },
+ {
+   "ORDO": 22,
+   "DESCR": "INV",
+   "FLOW_ID": 11080,
+   "AREA": "PUB_DAT",
+   "DATE": "2018-01-20"
+ },
+ {
+   "ORDO": 23,
+   "DESCR": "FAFM_BONDS",
+   "FLOW_ID": 11042,
+   "AREA": "PUB_DAT",
+   "DATE": "2018-01-22"
+ },
+ {
+   "ORDO": 24,
+   "DESCR": "FAFM_REP",
+   "FLOW_ID": 11041,
+   "AREA": "PUB_DAT",
+   "DATE": "2018-01-22"
+ },
+ {
+   "ORDO": 25,
+   "DESCR": "GRID FPL",
+   "FLOW_ID": 11096,
+   "AREA": "PUB_DAT",
+   "DATE": "2018-01-20"
+ },
+ {
+   "ORDO": 26,
+   "DESCR": "GVE",
+   "FLOW_ID": 11098,
+   "AREA": "PUB_DAT",
+   "DATE": "2018-01-20"
+ },
+ {
+   "ORDO": 27,
+   "DESCR": "FFM_GLS",
+   "FLOW_ID": 11098,
+   "AREA": "PUB_DAT",
+   "DATE": "2018-01-20"
+ },
+ {
+   "ORDO": 28,
+   "DESCR": "RER",
+   "FLOW_ID": 11025,
+   "AREA": "PUB_DAT",
+   "DATE": "2018-01-20"
+ },
+ {
+   "ORDO": 29,
+   "DESCR": "MAN HDRM",
+   "FLOW_ID": 11014,
+   "AREA": "PUB_DAT",
+   "DATE": "2018-01-20"
+ },
+ {
+   "ORDO": 30,
+   "DESCR": "MAN GL",
+   "FLOW_ID": 11049,
+   "AREA": "PUB_DAT",
+   "DATE": "31-12-17"
+ },
+ {
+   "ORDO": 31,
+   "DESCR": "MAN BONDS",
+   "FLOW_ID": 11104,
+   "AREA": "PUB_DAT",
+   "DATE": "30-11-17"
+ },
+ {
+   "ORDO": 32,
+   "DESCR": "MAN REPO",
+   "FLOW_ID": 11057,
+   "AREA": "PUB_DAT",
+   "DATE": "01-01-00"
+ },
+ {
+   "ORDO": 33,
+   "DESCR": "Wirrow",
+   "FLOW_ID": 11099,
+   "AREA": "PUB_DAT",
+   "DATE": "31-12-17"
+ },
+ {
+   "ORDO": 34,
+   "DESCR": "Man 35D",
+   "FLOW_ID": 11109,
+   "AREA": "PUB_DAT",
+   "DATE": "2018-01-20"
+ },
+ {
+   "ORDO": 35,
+   "DESCR": "Man IRF",
+   "FLOW_ID": 11114,
+   "AREA": "PUB_DAT",
+   "DATE": "2018-01-20"
+ }
+]

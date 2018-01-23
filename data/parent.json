@@ -1,0 +1,262 @@
+[
+ {
+   "EOD_flow": "CS",
+   "Calendar": "WD 13.00",
+   "Ofsset": "WD-1",
+   "File_set_cd": 11001,
+   "Draft": "",
+   "VLDAT": "2018-01-22",
+   "Unhappy": "2018-01-22",
+   "OFSAA": "NA"
+ },
+ {
+   "EOD_flow": "BDEV",
+   "Calendar": "WD 16.00",
+   "Ofsset": "WD-1",
+   "File_set_cd": 11005,
+   "Draft": "",
+   "VLDAT": "2018-01-22",
+   "Unhappy": "2018-01-22",
+   "OFSAA": "2018-01-22"
+ },
+ {
+   "EOD_flow": "GL BAL",
+   "Calendar": "CD 01.15",
+   "Ofsset": "CD-1",
+   "File_set_cd": 11018,
+   "Draft": "",
+   "VLDAT": "2018-01-22",
+   "Unhappy": "NA",
+   "OFSAA": "2018-01-22"
+ },
+ {
+   "EOD_flow": "GMDB",
+   "Calendar": "WD 06.00",
+   "Ofsset": "WD-1",
+   "File_set_cd": 11022,
+   "Draft": "",
+   "VLDAT": "2018-01-22",
+   "Unhappy": "2018-01-22",
+   "OFSAA": "2018-01-20"
+ },
+ {
+   "EOD_flow": "GL EXR",
+   "Calendar": "WD 17.00",
+   "Ofsset": "WD-1",
+   "File_set_cd": 11077,
+   "Draft": "",
+   "VLDAT": "2018-01-22",
+   "Unhappy": "2018-01-22",
+   "OFSAA": "NA"
+ },
+ {
+   "EOD_flow": "PR",
+   "Calendar": "CD 04.00",
+   "Ofsset": "CD-1",
+   "File_set_cd": 11003,
+   "Draft": "",
+   "VLDAT": "2018-01-22",
+   "Unhappy": "2018-01-20",
+   "OFSAA": "2018-01-20"
+ },
+ {
+   "EOD_flow": "PAC",
+   "Calendar": "CD 04.00",
+   "Ofsset": "CD-1",
+   "File_set_cd": 11015,
+   "Draft": "",
+   "VLDAT": "2018-01-22",
+   "Unhappy": "2018-01-22",
+   "OFSAA": "2018-01-22"
+ },
+ {
+   "EOD_flow": "SIL",
+   "Calendar": "WD 23.00",
+   "Ofsset": "WD-1",
+   "File_set_cd": 11131,
+   "Draft": "",
+   "VLDAT": "2018-01-22",
+   "Unhappy": "2018-01-22",
+   "OFSAA": "2018-01-22"
+ },
+ {
+   "EOD_flow": "KGC",
+   "Calendar": "WD 19.00",
+   "Ofsset": "CD-1",
+   "File_set_cd": 11026,
+   "Draft": "",
+   "VLDAT": "2018-01-22",
+   "Unhappy": "NA",
+   "OFSAA": "NA"
+ },
+ {
+   "EOD_flow": "PAN",
+   "Calendar": "WD 20.00",
+   "Ofsset": "WD-1",
+   "File_set_cd": 11081,
+   "Draft": "",
+   "VLDAT": "2018-01-22",
+   "Unhappy": "2018-01-22",
+   "OFSAA": "2018-01-20"
+ },
+ {
+   "EOD_flow": "GMDB BONDS",
+   "Calendar": "WD 06.00",
+   "Ofsset": "WD-1",
+   "File_set_cd": 11135,
+   "Draft": "",
+   "VLDAT": "2018-01-22",
+   "Unhappy": "2018-01-22",
+   "OFSAA": "NA"
+ },
+ {
+   "EOD_flow": "KLC",
+   "Calendar": "WD 02.00",
+   "Ofsset": "WD-1",
+   "File_set_cd": 11031,
+   "Draft": "",
+   "VLDAT": "2018-01-22",
+   "Unhappy": "2018-01-22",
+   "OFSAA": "2018-01-22"
+ },
+ {
+   "EOD_flow": "FCO TER",
+   "Calendar": "WD 20.00",
+   "Ofsset": "WD-1",
+   "File_set_cd": 11035,
+   "Draft": "",
+   "VLDAT": "2018-01-22",
+   "Unhappy": "2018-01-22",
+   "OFSAA": "2018-01-22"
+ },
+ {
+   "EOD_flow": "FCO AVO",
+   "Calendar": "WD 18.00",
+   "Ofsset": "WD-1",
+   "File_set_cd": 11029,
+   "Draft": "",
+   "VLDAT": "2018-01-22",
+   "Unhappy": "2018-01-22",
+   "OFSAA": "2018-01-22"
+ },
+ {
+   "EOD_flow": "FCO CAL",
+   "Calendar": "WD 04.00",
+   "Ofsset": "WD-1",
+   "File_set_cd": 11033,
+   "Draft": "",
+   "VLDAT": "2018-01-22",
+   "Unhappy": "2018-01-22",
+   "OFSAA": "2018-01-22"
+ },
+ {
+   "EOD_flow": "KON",
+   "Calendar": "WD 02.00",
+   "Ofsset": "WD-1",
+   "File_set_cd": 11097,
+   "Draft": "",
+   "VLDAT": "2018-01-22",
+   "Unhappy": "2018-01-22",
+   "OFSAA": "NA"
+ },
+ {
+   "EOD_flow": "AIS",
+   "Calendar": "WD 00.00",
+   "Ofsset": "WD-1",
+   "File_set_cd": 11079,
+   "Draft": "",
+   "VLDAT": "2018-01-22",
+   "Unhappy": "2018-01-22",
+   "OFSAA": "NA"
+ },
+ {
+   "EOD_flow": "FIL",
+   "Calendar": "WD 02.00",
+   "Ofsset": "WD-1",
+   "File_set_cd": 11024,
+   "Draft": "",
+   "VLDAT": "2018-01-22",
+   "Unhappy": "2018-01-22",
+   "OFSAA": "2018-01-22"
+ },
+ {
+   "EOD_flow": "PHL PHC",
+   "Calendar": "WD 01.00",
+   "Ofsset": "WD-1",
+   "File_set_cd": 11043,
+   "Draft": "",
+   "VLDAT": "2018-01-22",
+   "Unhappy": "2018-01-22",
+   "OFSAA": "2018-01-20"
+ },
+ {
+   "EOD_flow": "INV",
+   "Calendar": "WD 01.00",
+   "Ofsset": "WD-1",
+   "File_set_cd": 11080,
+   "Draft": "",
+   "VLDAT": "2018-01-22",
+   "Unhappy": "2018-01-22",
+   "OFSAA": "2018-01-20"
+ },
+ {
+   "EOD_flow": "FAFM Bo",
+   "Calendar": "WD 11.00",
+   "Ofsset": "WD-2",
+   "File_set_cd": 11042,
+   "Draft": "",
+   "VLDAT": "2018-01-20",
+   "Unhappy": "2018-01-20",
+   "OFSAA": "1/9/2018"
+ },
+ {
+   "EOD_flow": "FAFM Re",
+   "Calendar": "WD 11.00",
+   "Ofsset": "WD-2",
+   "File_set_cd": 11041,
+   "Draft": "",
+   "VLDAT": "2018-01-20",
+   "Unhappy": "2018-01-20",
+   "OFSAA": "1/9/2018"
+ },
+ {
+   "EOD_flow": "GRID FPL",
+   "Calendar": "CD 23.00",
+   "Ofsset": "CD-1",
+   "File_set_cd": 11096,
+   "Draft": "",
+   "VLDAT": "2018-01-22",
+   "Unhappy": "2018-01-22",
+   "OFSAA": "2018-01-22"
+ },
+ {
+   "EOD_flow": "GVE",
+   "Calendar": "WD 06.00",
+   "Ofsset": "WD-1",
+   "File_set_cd": 11100,
+   "Draft": "",
+   "VLDAT": "2018-01-22",
+   "Unhappy": "2018-01-22",
+   "OFSAA": "2018-01-20"
+ },
+ {
+   "EOD_flow": "FFM GLS",
+   "Calendar": "WD 11.00",
+   "Ofsset": "WD-2",
+   "File_set_cd": 11098,
+   "Draft": "",
+   "VLDAT": "2018-01-20",
+   "Unhappy": "2018-01-20",
+   "OFSAA": "2018-01-20"
+ },
+ {
+   "EOD_flow": "RER",
+   "Calendar": "WD 00.00",
+   "Ofsset": "WD-1",
+   "File_set_cd": 11025,
+   "Draft": "",
+   "VLDAT": "2018-01-22",
+   "Unhappy": "2018-01-22",
+   "OFSAA": "2018-01-20"
+ }
+]
